@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">“Try to learn something about everything and everything about.” </h4>
+<h4 align="center">“Eager to keep learning and keep up with the latest developments in the IT world.” </h4>
 
 ###
 
